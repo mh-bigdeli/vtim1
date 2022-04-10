@@ -2,9 +2,9 @@
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'IOTA Wiki',
-  tagline: 'The complete reference for IOTA',
-  url: 'https://wiki.iota.org',
+  title: 'VISION TRANSFORM IMMIGRATION',
+  tagline: 'Transform the way you immigrate',
+  url: 'https://heroic-trifle-9fb6d0.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
