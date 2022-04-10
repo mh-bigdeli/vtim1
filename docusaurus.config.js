@@ -63,7 +63,7 @@ module.exports = {
     cards: [
       {
         title: 'Learn',
-        image: 'img/learn.svg',
+        image: 'img/canada-649858_1280.png',
         link: 'learn/about-iota/an-introduction-to-iota',
         description:
           'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
