@@ -3,7 +3,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'VISION TRANSFORM IMMIGRATION',
-  tagline: 'Transform the way you immigrate',
+  tagline: 'Transform The Way You Immigrate To Canada',
   url: 'https://heroic-trifle-9fb6d0.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'log',

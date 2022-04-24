@@ -1,19 +1,18 @@
 ---
-id: an-introduction-to-iota
-title: An Introduction to IOTA
-description: A basic introduction to the IOTA DLT Technology. The use-cases and
-  the Ecosystem developed around it.
+id: an-introduction-to-Vision Transform Immigration
+title: An Introduction to VTIM
+description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---
 
-# An Introduction to IOTA
+# An Introduction to Vision Transform Immigration
 
 **This topic gives a brief overview and describes some of the main differences between IOTA's Tangle and a blockchain.**
 
-Blockchains and the Tangle both fall under the same category of distributed ledger technology (DLT).
+Vision Transform
 
 The main differences between blockchains and the Tangle are the following:
 
-- In a blockchain, new transactions can only be attached to a single point (a new block). This block follows a previously produced block and is directly cryptographically linked to this previous block. Transactions in a blockchain can only become part of the ledger (the record of balances and accounts) if they are included in a newly issued block by the block producers (miners in PoW blockchains, stakers in PoS blockchains). In nearly all blockchains, the block producers can decide which new transactions they prefer to include and confirm in the blocks they produce. This leads to competition between the freshly issued transactions to become part of a new block. The fee-based incentivized structure of those blockchains favors users willing to pay a higher fee for transactions as they more likely included in the new block than those offering a lower fee.
+- In a blockchain new transactions can only be attached to a single point (a new block). This block follows a previously produced block and is directly cryptographically linked to this previous block. Transactions in a blockchain can only become part of the ledger (the record of balances and accounts) if they are included in a newly issued block by the block producers (miners in PoW blockchains, stakers in PoS blockchains). In nearly all blockchains, the block producers can decide which new transactions they prefer to include and confirm in the blocks they produce. This leads to competition between the freshly issued transactions to become part of a new block. The fee-based incentivized structure of those blockchains favors users willing to pay a higher fee for transactions as they more likely included in the new block than those offering a lower fee.
 
 - In the Tangle, there are no block producers, and therefore every user is free to issue new transactions and attach them on different Tangle parts without an entity that acts as middlemen. The Tangle is not a single chain of blocks that follow each other. It is a network of parallel processed transactions (so-called Tips). This parallel transactions form the "front" of the Tangle and offer many different points for new issued transactions to be attached, which dramatically speeds up the processing of transactions.
 Every node in the network is free to attach new transactions to the network at any time. No entity is needed to decide when and if those transactions get included. As long as they follow the basic rules of the protocol (valid signatures / no double spending of funds) those transactions will become part of the ledger by just issuing them to a node.
