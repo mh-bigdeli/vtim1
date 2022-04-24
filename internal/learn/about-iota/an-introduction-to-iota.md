@@ -9,7 +9,6 @@ description: An introduction to our activites and immigration services at Vision
 **This topic gives a brief overview and describes some of the main differences between IOTA's Tangle and a blockchain.**
 
 Vision Transform
-Vision Transform
 
 The main differences between blockchains and the Tangle are the following:
 
