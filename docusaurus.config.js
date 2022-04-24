@@ -64,7 +64,7 @@ module.exports = {
       {
         title: 'Learn',
         image: 'img/canada-649858_1280.png',
-        link: 'learn/about-iota/an-introduction-to-iota',
+        link: 'learn/about-iota/an-introduction-to-vti',
         description:
           'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
       },
@@ -93,7 +93,7 @@ module.exports = {
       items: [
         {
           label: 'Learn',
-          to: 'learn/about-iota/an-introduction-to-iota',
+          to: 'learn/about-iota/an-introduction-to-vti',
           activeBaseRegex: '^/learn/.*',
         },
         {
@@ -255,7 +255,7 @@ module.exports = {
           items: [
             {
               label: 'About IOTA',
-              to: 'learn/about-iota/an-introduction-to-iota',
+              to: 'learn/about-iota/an-introduction-to-vti',
             },
             {
               label: 'IOTA Token',
