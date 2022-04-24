@@ -10,8 +10,8 @@ module.exports = {
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
-  organizationName: 'iota-community', // Usually your GitHub org/user name.
-  projectName: 'iota-wiki', // Usually your repo name.
+  organizationName: 'mh-bigdeli', // Usually your GitHub org/user name.
+  projectName: 'vtim1', // Usually your repo name.
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
     {
