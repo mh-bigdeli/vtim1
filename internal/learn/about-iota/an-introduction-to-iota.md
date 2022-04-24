@@ -1,5 +1,5 @@
 ---
-id: an-introduction-to-Vision Transform Immigration
+id: an-introduction-to-vti
 title: An Introduction to VTIM
 description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---

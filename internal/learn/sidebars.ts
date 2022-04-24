@@ -5,7 +5,7 @@ module.exports = {
       label: 'About IOTA',
       collapsed: false,
       items: [
-        'about-iota/an-introduction-to-iota',
+        'about-iota/an-introduction-to-vti',
         'about-iota/data-transfer',
         'about-iota/value-transfer',
         'about-iota/why-is-iota-feeless',
