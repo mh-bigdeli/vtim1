@@ -42,9 +42,11 @@ jobs:
       - name: Build
         run: |
           yarn build
-      - name: Release to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./build
-          cname: wiki.iota.org
+          target_branch: gh-pages
+          build_dir: build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
