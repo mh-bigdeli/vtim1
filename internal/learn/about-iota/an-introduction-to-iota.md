@@ -1,15 +1,15 @@
 ---
 id: an-introduction-to-vti
-title: About Introduction to Vision Transform Immigration Services
+title: About VTIMs
 description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---
 
-# An Introduction to Vision Transform Immigration
+# An Introduction to Vision Transform Immigration Services
 
 **This topic gives a brief overview and describes some of the main differences between IOTA's Tangle and a blockchain.**
 
-Vision Transform
-
+Vision Transform Immigration Services (VTIMS) is a an authorized immigration consultancy by the College of Immigration and Citizenship Consultants (CICC). VTIMS provides expert consultancy services leveraging expertise driven from education and experinece. Our specialist combine decades of experience in areas such as Canadian immigration system, North American education system, and Canadian business and financial environment. 
+We can meet your immigraion and visa needs in and effective way, because we have lived the life here in a professional way and we know the nuts and bolts of the Canadian social and economic echosystem. 
 The main differences between blockchains and the Tangle are the following:
 
 - In a blockchain new transactions can only be attached to a single point (a new block). This block follows a previously produced block and is directly cryptographically linked to this previous block. Transactions in a blockchain can only become part of the ledger (the record of balances and accounts) if they are included in a newly issued block by the block producers (miners in PoW blockchains, stakers in PoS blockchains). In nearly all blockchains, the block producers can decide which new transactions they prefer to include and confirm in the blocks they produce. This leads to competition between the freshly issued transactions to become part of a new block. The fee-based incentivized structure of those blockchains favors users willing to pay a higher fee for transactions as they more likely included in the new block than those offering a lower fee.
