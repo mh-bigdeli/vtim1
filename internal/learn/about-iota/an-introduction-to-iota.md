@@ -1,6 +1,6 @@
 ---
 id: an-introduction-to-vti
-title: About VTIMs
+title: About VTIM
 description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---
 
