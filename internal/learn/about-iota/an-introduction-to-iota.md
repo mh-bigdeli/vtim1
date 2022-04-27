@@ -13,9 +13,8 @@ Vision Transform Immigration Services (VTIMS) is a an authorized immigration con
 - We can meet your immigraion and visa needs in and effective way, because we have lived the life here in a professional way and we know the nuts and bolts of the Canadian social and economic echosystem. 
 
 
-**Blockchain vs. Tangle**
 
-![layer1-tangle](/img/learn/layer1-tangle.png)
+![layer1-tangle](/RCIC_EN_HORZ_BLK_POS_TM.png)
 
 ## The blockchain data structure
 
