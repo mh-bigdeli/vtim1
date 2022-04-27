@@ -14,7 +14,7 @@ Vision Transform Immigration Services (VTIMS) is a an authorized immigration con
 
 
 
-![layer1-tangle](/RCIC_EN_HORZ_BLK_POS_TM.png)
+![layer1-tangle](/img/learn//RCIC_EN_HORZ_BLK_POS_TM.png)
 
 ## The blockchain data structure
 
