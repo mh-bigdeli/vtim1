@@ -15,7 +15,6 @@ Vision Transform Immigration Services (VTIMS) is a an authorized immigration con
 - Here at VTIMS, we strive to offer tailored solutions to meet your needs, so that you can dedicate your resources in an optimal way as we try to formulate the best possible pathway for you.  
 
 
-
 ![layer1-tangle](/img/learn/RCIC_EN_HORZ_CLR_POS_TM.png)
 
 
