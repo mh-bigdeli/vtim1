@@ -88,7 +88,7 @@ module.exports = {
       logo: {
         alt: 'IOTA Wiki Logo',
         src: 'img/logo-vtims.png',
-        srcDark: 'img/logo_dark.svg',
+        srcDark: 'img/logo-vtims.png',
       },
       items: [
         {
