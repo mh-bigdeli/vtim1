@@ -373,7 +373,7 @@ module.exports = {
       ],
       logo: {
         alt: 'VTIMS Logo',
-        src: 'img/logo-vtims.svg',
+        src: 'img/logo-vtims.png',
         href: 'https://heroic-trifle-9fb6d0.netlify.app/',
       },
       copyright: `© ${new Date().getFullYear()} IOTA Wiki. Built with Docusaurus.`,
