@@ -1,5 +1,5 @@
 ---
-title: Node Software
+title: Settlement Services
 description: IOTA networks consist of interconnected nodes that run the same
   node software. We introduce the different available types and provide guides
   that will help in setting those nodes up.

@@ -1,5 +1,5 @@
 ---
-title: About Nodes
+title: Visa Services
 description: Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.
 image: /img/participate/banner/banner_about_nodes.png
 ---

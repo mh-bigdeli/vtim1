@@ -1,8 +1,8 @@
 module.exports = {
   participate: [
-    'about-nodes',
-    'become-a-node-operator',
-    'node-software',
+    'visa-services',
+    'immigration-services',
+    'settlement-services',
     // {
     //   type: 'category',
     //   label: 'Support The Network',

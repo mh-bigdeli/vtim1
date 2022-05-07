@@ -71,7 +71,7 @@ module.exports = {
       {
         title: 'Our Services',
         image: 'img/participate.svg',
-        link: 'participate/about-nodes',
+        link: 'participate/visa-services',
         description:
           'Service excellence',
       },
@@ -98,7 +98,7 @@ module.exports = {
         },
         {
           label: 'Our Services',
-          to: 'participate/about-nodes',
+          to: 'participate/visa-services',
           activeBaseRegex: '^/participate/.*',
         },
         {
@@ -288,7 +288,7 @@ module.exports = {
           items: [
             {
               label: 'Support the network',
-              to: 'participate/about-nodes',
+              to: 'participate/visa-services',
             },
             {
               label: 'The Community',

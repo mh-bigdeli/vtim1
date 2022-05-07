@@ -1,5 +1,5 @@
 ---
-title: Become a node operator
+title: Immigration Services
 description: Running a node is the best way to use IOTA. This topic provides a
   checklist of steps for running a reliable node.
 image: /img/participate/banner/banner_node_operator.png
