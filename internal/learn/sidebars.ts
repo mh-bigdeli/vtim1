@@ -80,4 +80,5 @@ module.exports = {
     'glossary',
     'faqs',
     'an-introduction-to-vti',
+  ],
 };
