@@ -372,9 +372,9 @@ module.exports = {
         },
       ],
       logo: {
-        alt: 'IOTA Logo',
-        src: 'img/iota_logo.svg',
-        href: 'https://www.iota.org',
+        alt: 'VTIMS Logo',
+        src: 'img/logo-vtims.svg',
+        href: 'https://heroic-trifle-9fb6d0.netlify.app/',
       },
       copyright: `© ${new Date().getFullYear()} IOTA Wiki. Built with Docusaurus.`,
     },
