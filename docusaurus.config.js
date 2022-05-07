@@ -69,11 +69,11 @@ module.exports = {
           'Learn about VTIMS.',
       },
       {
-        title: 'Participate',
+        title: 'Our Services',
         image: 'img/participate.svg',
         link: 'participate/support-the-network/about-nodes',
         description:
-          'Join the network and start using solutions built on top of the Tangle.',
+          'Service excellence',
       },
       {
         title: 'Build',
@@ -97,7 +97,7 @@ module.exports = {
           activeBaseRegex: '^/learn/.*',
         },
         {
-          label: 'Participate',
+          label: 'Our Services',
           to: 'participate/support-the-network/about-nodes',
           activeBaseRegex: '^/participate/.*',
         },
