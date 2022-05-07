@@ -1,8 +1,8 @@
 module.exports = {
   participate: [
-    'support-the-network/about-nodes',
-    'support-the-network/become-a-node-operator',
-    'support-the-network/node-software',
+    'about-nodes',
+    'become-a-node-operator',
+    'node-software',
     // {
     //   type: 'category',
     //   label: 'Support The Network',
