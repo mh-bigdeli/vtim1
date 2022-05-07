@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://wiki.iota.org">
-    <img src="static/img/logo-vtims.svg" alt="Logo" width="80" height="80" fill="#ffffff">
+    <img src="static/img/logo-vtims.png" alt="Logo" width="80" height="80" fill="#ffffff">
   </a>
 
   <h3 align="center">IOTA Wiki</h3>
