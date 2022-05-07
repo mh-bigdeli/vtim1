@@ -98,7 +98,7 @@ module.exports = {
         },
         {
           label: 'Our Services',
-          to: 'participate/support-the-network/about-nodes',
+          to: 'participate/about-nodes',
           activeBaseRegex: '^/participate/.*',
         },
         {
