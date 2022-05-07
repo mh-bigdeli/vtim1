@@ -87,7 +87,7 @@ module.exports = {
       hideOnScroll: true,
       logo: {
         alt: 'IOTA Wiki Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo-vtims.png',
         srcDark: 'img/logo_dark.svg',
       },
       items: [
