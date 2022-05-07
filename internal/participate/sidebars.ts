@@ -3,16 +3,16 @@ module.exports = {
     'support-the-network/about-nodes',
     'support-the-network/become-a-node-operator',
     'support-the-network/node-software',
-    {
-      type: 'category',
-      label: 'Support The Network',
-      collapsed: false,
-      items: [
-        'support-the-network/about-nodes',
-        'support-the-network/become-a-node-operator',
-        'support-the-network/node-software',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Support The Network',
+    //   collapsed: false,
+    //   items: [
+    //     'support-the-network/about-nodes',
+    //     'support-the-network/become-a-node-operator',
+    //     'support-the-network/node-software',
+    //   ],
+    // },
     // {
     //   type: 'category',
     //   label: 'The Community',
