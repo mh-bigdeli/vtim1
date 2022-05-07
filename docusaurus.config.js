@@ -71,7 +71,7 @@ module.exports = {
       {
         title: 'Our Services',
         image: 'img/participate.svg',
-        link: 'participate/support-the-network/about-nodes',
+        link: 'participate/about-nodes',
         description:
           'Service excellence',
       },
@@ -288,7 +288,7 @@ module.exports = {
           items: [
             {
               label: 'Support the network',
-              to: 'participate/support-the-network/about-nodes',
+              to: 'participate/about-nodes',
             },
             {
               label: 'The Community',
