@@ -5,14 +5,7 @@ module.exports = {
       label: 'About IOTA',
       collapsed: false,
       items: [
-        'about-iota/an-introduction-to-vti',
-        'about-iota/vti-in-action',
-        'about-iota/data-transfer',
-        'about-iota/value-transfer',
-        'about-iota/why-is-iota-feeless',
-        'about-iota/roadmap-to-decentralization',
-        'about-iota/messages',
-        'about-iota/energy-efficiency',
+        'an-introduction-to-vti',
       ],
     },
     {
