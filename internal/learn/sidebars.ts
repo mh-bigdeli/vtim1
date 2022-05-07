@@ -2,14 +2,6 @@ module.exports = {
   learn: [
     {
       type: 'category',
-      label: 'About IOTA',
-      collapsed: false,
-      items: [
-        'an-introduction-to-vti',
-      ],
-    },
-    {
-      type: 'category',
       label: 'IOTA Token',
       collapsed: true,
       items: ['iota-token/buying-iota', 'iota-token/staking-iota'],
@@ -87,5 +79,5 @@ module.exports = {
     },
     'glossary',
     'faqs',
-  ],
+    'an-introduction-to-vti',
 };
