@@ -77,8 +77,6 @@ module.exports = {
         'future/nfts',
       ],
     },
-    'glossary',
-    'faqs',
     'an-introduction-to-vti',
   ],
 };

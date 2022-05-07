@@ -62,11 +62,11 @@ module.exports = {
     },
     cards: [
       {
-        title: 'Learn',
+        title: 'VTIMS',
         image: 'img/canada-649858_1280.png',
-        link: 'learn/about-iota/an-introduction-to-vti',
+        link: 'learn/an-introduction-to-vti',
         description:
-          'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
+          'Learn about VTIMS.',
       },
       {
         title: 'Participate',
@@ -92,8 +92,8 @@ module.exports = {
       },
       items: [
         {
-          label: 'Learn',
-          to: 'learn/about-iota/an-introduction-to-vti',
+          label: 'About Us',
+          to: 'learn/an-introduction-to-vti',
           activeBaseRegex: '^/learn/.*',
         },
         {
