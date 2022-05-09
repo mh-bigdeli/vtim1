@@ -4,9 +4,9 @@ description: VTIMS VISA Services
 image: /img/participate/banner/travel-visa-banner.png
 ---
 
-# About Nodes
+# VTIMS Visa Services 
 
-![About Nodes](/img/participate/banner/travle-visa-banner.png)
+![Get Your Visa](/img/participate/banner/travle-visa-banner.png)
 
 **Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle. This section covers what nodes do in an IOTA network.**
 
