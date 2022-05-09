@@ -4,9 +4,24 @@ description: VTIMS VISA Services
 image: /img/participate/banner/travel-visa-banner.png
 ---
 
-# VTIMS Visa Services 
+# Temporary Resident Visa Services 
 
 ![Get Your Visa](/img/participate/banner/travle-visa-banner.png)
+
+
+At VTIMS, we walk alongside you throughout the entire visa process to make sure it all goes as smoothly as possible and to generate an outcome that sustains your interests. Our services in this section include but not limited to:
+	- Initial assessment and consultation
+	- Case analysis to provide recommendations
+	- Document preparation and required write ups
+	- Visa application and representation
+	- Visa extension and status update
+	- Correspondence with the embassy and consulate offices
+
+We support temporary visa applications including family and visitor visa, Student visa, change of status, parents super visa. 
+
+
+
+
 
 **Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle. This section covers what nodes do in an IOTA network.**
 
