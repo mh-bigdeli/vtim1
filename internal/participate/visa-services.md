@@ -23,7 +23,7 @@ We support temporary visa applications including family and visitor visa, Studen
 
 
 
-**Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle. This section covers what nodes do in an IOTA network.**
+<!-- **Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle. This section covers what nodes do in an IOTA network.**
 
 Nodes are responsible for the following:
 
@@ -84,7 +84,7 @@ The HTTP API allows clients to interact with the Tangle and ask nodes to do the 
 - Get tip transactions
 - Attach new transactions to the Tangle
 - Do proof of work
-- Get transactions from the Tangle
+- Get transactions from the Tangle -->
 
 ### Events API
 
