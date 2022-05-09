@@ -1,10 +1,10 @@
 ---
-title:
+title: Temporary Resident Visa Services 
 description: VTIMS VISA Services 
 image: /img/participate/banner/travel-visa-banner.png
 ---
 
-## Temporary Resident Visa Services 
+<!-- ## Temporary Resident Visa Services  -->
 
 ![Get Your Visa](/img/participate/banner/travle-visa-banner.png)
 
