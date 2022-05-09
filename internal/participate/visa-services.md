@@ -1,5 +1,5 @@
 ---
-title: ## Visa Services
+title:
 description: VTIMS VISA Services 
 image: /img/participate/banner/travel-visa-banner.png
 ---
