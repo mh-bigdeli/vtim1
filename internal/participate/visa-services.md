@@ -86,8 +86,9 @@ The HTTP API allows clients to interact with the Tangle and ask nodes to do the 
 - Do proof of work
 - Get transactions from the Tangle -->
 
-### Events API
+<!-- ### Events API
 
 The Events API allows clients to poll nodes for new transactions and other events that happen on nodes.
 
 This API is useful for building applications such as custodial wallets that need to monitor the Tangle for updates to the balances of certain addresses.
+ -->
