@@ -1,12 +1,12 @@
 ---
 title: Visa Services
-description: Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.
-image: /img/participate/banner/banner_about_nodes.png
+description: VTIMS VISA Services 
+image: /img/participate/banner/travel-visa-banner.png
 ---
 
 # About Nodes
 
-![About Nodes](/img/participate/banner/banner_about_nodes.png)
+![About Nodes](/img/participate/banner/travle-visa-banner.png)
 
 **Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle. This section covers what nodes do in an IOTA network.**
 
