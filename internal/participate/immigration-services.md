@@ -6,7 +6,7 @@ image: /img/participate/banner/canada-immigration1.png
 
 # Getting started as a node operator
 
-![Node Operator](/img/participate/banner/canada-immigration1.png)
+![Node Operator](/img/participate/banner/canada-immigration1.jpg)
 
 When it comes to immigrating to Canada, It might involve complicated and versatile circumstances. As result,  people  navigating through the immigration path, might face several unknowns on the way. Acquiring proper help could substantially reduce the  financial and emotional burden and eliminate delays unprecedented delays due to missing documents and/or timely correspondence with the IRCC. This could well offset the cost of reaching out for an expert hand. Our immigration services include but not limited:
 
@@ -22,7 +22,7 @@ When it comes to immigrating to Canada, It might involve complicated and versati
 
 
 
-![Node Operator](/img/participate/banner/canada-immigration2.png)
+![Node Operator](/img/participate/banner/canada-immigration2.jpg)
 
 	- Humanitarian and Compassionate Considerations Class
 	- Refugees and Protected People
