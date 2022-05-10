@@ -11,14 +11,14 @@ image: /img/participate/banner/canada-immigration1.png
 When it comes to immigrating to Canada, It might involve complicated and versatile circumstances. As result,  people  navigating through the immigration path, might face several unknowns on the way. Acquiring proper help could substantially reduce the  financial and emotional burden and eliminate delays unprecedented delays due to missing documents and/or timely correspondence with the IRCC. This could well offset the cost of reaching out for an expert hand. Our immigration services include but not limited:
 
 	- Economic Class:
-		○ Skilled Workers
-		○ Business Immigration
-		○ Caregiver
+		-- Skilled Workers
+		-- Business Immigration
+		-- Caregiver
 	- Sponsorship Programs:
-		○ Parents
-		○ Other family members including brothers and sisters, children, etc.
-		○ Adopted children
-		○ Other circumstances
+		-- Parents
+		-- Other family members including brothers and sisters, children, etc.
+		-- Adopted children
+		--Other circumstances
 
 
 
