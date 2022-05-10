@@ -10,7 +10,7 @@
 }
 
 .blogPostTitle {
-  font-size: 2rem;
+  font-size: 2rem !important;
 }
 
 .blogPost__body {
