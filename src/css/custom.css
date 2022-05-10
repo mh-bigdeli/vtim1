@@ -2,6 +2,10 @@
 @import 'variables.css';
 @import 'patches.css';
 
+:root {
+  --ifm-h1-font-size: 2;
+  }
+  
 .dropdown > .navbar__link:after,
 .menu__link--sublist:after {
   content: 'expand_more';
