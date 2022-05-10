@@ -21,6 +21,14 @@ When it comes to immigrating to Canada, It might involve complicated and versati
 		○ Other circumstances
 
 
+
+![Node Operator](/img/participate/banner/canada-immigration2.png)
+
+	- Humanitarian and Compassionate Considerations Class
+	- Refugees and Protected People
+	- Immigration and Refugee Appeal Process through IRB
+
+
 <!-- **Running a node is the best way to use IOTA. By doing so, you have direct access to the Tangle instead of having to connect to and trust someone else's node, and you help the IOTA network to become more distributed. This topic provides a checklist of steps for running a reliable node.**
 
 ## Setting up a reliable architecture
