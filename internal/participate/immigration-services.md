@@ -18,7 +18,7 @@ When it comes to immigrating to Canada, It might involve complicated and versati
 		-- Parents
 		-- Other family members including brothers and sisters, children, etc.
 		-- Adopted children
-		--Other circumstances
+		-- Other circumstances
 
 
 
