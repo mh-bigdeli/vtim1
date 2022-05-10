@@ -1,7 +1,7 @@
 ---
 title: Immigration Services
 description: VTIMS Immigration Services
-image: /img/participate/banner/banner_node_operator.png
+image: /img/participate/banner/canada-immigration1.png
 ---
 
 # Getting started as a node operator
