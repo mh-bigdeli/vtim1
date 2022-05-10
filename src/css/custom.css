@@ -2,7 +2,7 @@
 @import 'variables.css';
 @import 'patches.css';
 
-[class^=h1Heading] {
+[class^=h2Heading] {
   font-size: 2rem;
   }
   
