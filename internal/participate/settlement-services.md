@@ -6,7 +6,7 @@ image: /img/participate/banner/banner_node_software.png
 
 
 
-![Node Software](/img/participate/banner/settlement1.jpg)
+![Node Software](/img/participate/banner/Settlement1.jpg)
 
 
 Arriving in Canada is one thing and integrating successfully in its multifaceted and multicultural society is another. Relocation by itself is a tremendous change for every newcomer whether being on a temporary stay or arriving as a new immigrant or protected person. Let alone, dealing with the hassle of finding the right accommodation, understanding  and exercising your social rights, and taking advantage of opportunities to succeed in much faster pace.  VTIMS not only stans by its clients throughout their journey to Canada but also extends its supportive hands to ensure a smooth, effective, efficient settlement in the new Canadian socio-economic environment.  
