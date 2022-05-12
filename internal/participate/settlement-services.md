@@ -4,7 +4,7 @@ description: Settlement Services After Arriving in Canada
 image: /img/participate/banner/banner_node_software.png
 ---
 
-# Node Software
+
 
 ![Node Software](/img/participate/banner/settlement1.jpg)
 
@@ -12,14 +12,14 @@ image: /img/participate/banner/banner_node_software.png
 Arriving in Canada is one thing and integrating successfully in its multifaceted and multicultural society is another. Relocation by itself is a tremendous change for every newcomer whether being on a temporary stay or arriving as a new immigrant or protected person. Let alone, dealing with the hassle of finding the right accommodation, understanding  and exercising your social rights, and taking advantage of opportunities to succeed in much faster pace.  VTIMS not only stans by its clients throughout their journey to Canada but also extends its supportive hands to ensure a smooth, effective, efficient settlement in the new Canadian socio-economic environment.  
 
 	- Short term arrival accommodation:
-		○ We help you find a suitable temporary stay with a reasonable price point and good location, where you have proper access to your supports
+		- We help you find a suitable temporary stay with a reasonable price point and good location, where you have proper access to your supports
 	- Long term residence
-		○ Whether you want to stay in a rental residence or purchase a new home in Canada, we connect you to our strategic partners, who are very much competent and expert in their field
+		- Whether you want to stay in a rental residence or purchase a new home in Canada, we connect you to our strategic partners, who are very much competent and expert in their field
 	- Education and career coaching:
-		○ With the expertise in the Canadian education system and business environment, we will hold your hand throughout your pursuit of success and prosperity. 
-		○ Relying on our expert advice and coaching, will most likely save you a huge deal of time and money as we help you find what's suitable for you and your needs
+		- With the expertise in the Canadian education system and business environment, we will hold your hand throughout your pursuit of success and prosperity. 
+		- Relying on our expert advice and coaching, will most likely save you a huge deal of time and money as we help you find what's suitable for you and your needs
 	- Canadian integration workshops:
-		○ At VTIMS, we provide you with the state of the art workshops or one-on-one coaching sessions to facilitate and accelerate your integration in the Canadian society and better understand it social, political, and economic aspects
+		- At VTIMS, we provide you with the state of the art workshops or one-on-one coaching sessions to facilitate and accelerate your integration in the Canadian society and better understand it social, political, and economic aspects
 
 
 <!-- **IOTA networks consist of interconnected nodes that run the same node software. This software gives nodes read/write access to the Tangle, allows them to validate transactions, and allows them to store transactions in their local ledgers.**
