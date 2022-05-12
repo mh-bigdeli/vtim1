@@ -1,14 +1,15 @@
 [
   {
-    "name": "Phylo",
-    "title": "Wen Wiki DAO?",
-    "image_url": "https://avatars.githubusercontent.com/u/77154511?v=4",
-    "social_links": [
+    "name": "Mahdi Bigdeli",
+    "title": "RCIC, MBA",
+    ![Node Software](/img/participate/banner/team-mehdi1.jpg),
+    /* "social_links": [
       "https://github.com/Phyloiota",
       "https://twitter.com/PhyloIota",
       "https://discordapp.com/users/451662043506933780/"
-    ]
-  },
+    ] */
+  }
+  /* ,
   {
     "name": "Dr. Electron",
     "title": "Frontend what?",
@@ -47,5 +48,5 @@
       "https://twitter.com/jan_stojanovic",
       "https://discordapp.com/users/199998423057825792/"
     ]
-  }
+  } */
 ]
