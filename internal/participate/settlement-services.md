@@ -6,7 +6,7 @@ image: /img/participate/banner/banner_node_software.png
 
 
 
-![Node Software](/img/participate/banner/Settlement2.jpg)
+![Node Software](/img/participate/banner/Settlement5.jpg)
 
 
 Arriving in Canada is one thing and integrating successfully in its multifaceted and multicultural society is another. Relocation by itself is a tremendous change for every newcomer whether being on a temporary stay or arriving as a new immigrant or protected person. Let alone, dealing with the hassle of finding the right accommodation, understanding  and exercising your social rights, and taking advantage of opportunities to succeed in much faster pace.  VTIMS not only stans by its clients throughout their journey to Canada but also extends its supportive hands to ensure a smooth, effective, efficient settlement in the new Canadian socio-economic environment.  
@@ -18,7 +18,7 @@ Arriving in Canada is one thing and integrating successfully in its multifaceted
 - Education and career coaching:
 	- With the expertise in the Canadian education system and business environment, we will hold your hand throughout your pursuit of success and prosperity. 
 
-  ![Node Software](/img/participate/banner/Settlement1.jpg)
+  ![Node Software](/img/participate/banner/Settlement4.jpg)
 
 	- Relying on our expert advice and coaching, will most likely save you a huge deal of time and money as we help you find what's suitable for you and your needs
 - Canadian integration workshops:
