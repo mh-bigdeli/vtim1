@@ -245,7 +245,7 @@ module.exports = {
           ],
         },
         { to: '/blog', label: 'Community Blog', position: 'right' },
-        { to: '/team', label: 'Team', position: 'right' },
+      
       ],
     },
     footer: {
