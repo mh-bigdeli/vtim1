@@ -338,7 +338,7 @@ module.exports = {
           items: [
             {
               label: 'Team',
-              to: 'Team/team',
+              to: 'Team/vision-transform-team',
             },
             {
               label: 'Github',
