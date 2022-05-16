@@ -1,7 +1,7 @@
 ---
 id: vtims-team
 title: VTIMS Team
-description:Our Team
+description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---
 
 ## VTIMS Team
