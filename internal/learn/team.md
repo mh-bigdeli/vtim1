@@ -1,9 +1,11 @@
 ---
-title: Vision Transform Team
-description: VTIMS Team
-image: /img/participate/banner/canada-immigration1.png
+id: vtims-team
+title: VTIMS Team
+description:Our Team
 ---
 
-# Vision Transform Team
+## VTIMS Team
 
-![Node Operator](/img/participate/banner/team-mehdi1.jpg)
+![layer1-tangle](/img/learn/team-mehdi1.jpg)
+
+### Mahdi Bigdeli

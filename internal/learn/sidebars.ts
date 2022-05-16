@@ -78,6 +78,6 @@ module.exports = {
     //   ],
     // },
     'an-introduction-to-vti',
-    'team',
+    'vtims-team',
   ],
 };
