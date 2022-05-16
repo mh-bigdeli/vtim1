@@ -251,17 +251,17 @@ module.exports = {
     footer: {
       links: [
         {
-          title: 'LEARN',
+          title: 'About Us',
           items: [
             {
-              label: 'About IOTA',
-              to: 'learn/about-iota/an-introduction-to-vti',
+              label: 'About VTIMS',
+              to: 'learn/an-introduction-to-vti',
             },
             {
-              label: 'IOTA Token',
-              to: 'learn/iota-token/buying-iota',
+              label: 'VTIMS Team',
+              to: 'learn/vtims-team',
             },
-            {
+            /* {
               label: 'Wallets',
               to: 'learn/wallets/what-is-a-wallet',
             },
@@ -280,25 +280,25 @@ module.exports = {
             {
               label: 'Future of IOTA',
               to: 'learn/future/future-of-iota',
-            },
+            }, */
           ],
         },
         {
-          title: 'PARTICIPATE',
+          title: 'Our Services',
           items: [
             {
-              label: 'Support the network',
+              label: 'Temporary Resident Visa',
               to: 'participate/visa-services',
             },
             {
-              label: 'The Community',
-              to: 'participate/the-community/discord',
+              label: 'Immigration Services',
+              to: 'participate/immigration-services',
             },
             {
-              label: 'Partnerships',
-              href: 'https://www.iota.org/solutions/partnerships',
+              label: 'Settlement Services',
+              href: 'participate/settlement-services',
             },
-            {
+            /* {
               label: 'Funding',
               to: 'participate/funding/edf-funding',
             },
@@ -309,7 +309,7 @@ module.exports = {
             {
               label: 'Frameworks',
               to: 'participate/frameworks/introduction',
-            },
+            }, */
           ],
         },
         {
@@ -333,43 +333,7 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'WIKI',
-          items: [
-            {
-              label: 'Team',
-              to: 'Team/vision-transform-team',
-            },
-            {
-              label: 'Github',
-              href: 'https://github.com/iota-community/iota-wiki',
-            },
-            {
-              label: 'Editor Github',
-              href: 'https://github.com/jlvandenhout/docusaurus-plugin-docs-editor',
-            },
-            {
-              label: 'Docusaurus',
-              href: 'https://docusaurus.io',
-            },
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'Contribute',
-              to: 'participate/contribute-to-wiki/welcome',
-            },
-            {
-              label: 'Impressum',
-              to: 'https://www.iota.org/impressum',
-            },
-            {
-              label: 'Privacy Policy',
-              to: 'https://www.iota.org/privacy-policy',
-            },
-          ],
-        },
+        
       ],
       logo: {
         alt: 'VTIMS Logo',
