@@ -340,29 +340,29 @@ module.exports = {
         src: 'img/logo-vtims.png',
         href: 'https://heroic-trifle-9fb6d0.netlify.app/',
       },
-      copyright: `© ${new Date().getFullYear()} IOTA Wiki. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()} VTIMS.`,
     },
     socials: [
-      {
+      /* {
         url: 'https://www.youtube.com/c/iotafoundation',
         backgroundColor: 'var(--ifm-color-gray-900)',
       },
       {
         url: 'https://www.github.com/iotaledger/',
         backgroundColor: '#2C3850',
-      },
-      {
+      }, */
+      /* {
         url: 'https://discord.iota.org/',
         backgroundColor: '#4B576F',
-      },
+      }, */
       {
         url: 'https://www.twitter.com/iota/',
         backgroundColor: '#6A768E',
       },
-      {
+      /* {
         url: 'https://www.reddit.com/r/iota/',
         backgroundColor: '#7D89A1',
-      },
+      }, */
       {
         url: 'https://www.linkedin.com/company/iotafoundation/',
         backgroundColor: '#8995AD',
