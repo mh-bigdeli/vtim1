@@ -42,9 +42,9 @@ module.exports = {
       matomoUrl: 'https://matomo.antonionardella.it/',
       siteId: '6',
     },
-    hotjar: {
+   /*  hotjar: {
       applicationId: '2809821',
-    },
+    }, */
     imageZoom: {
       selector:
         '.markdown :not(a) > img:not(.image-gallery-image):not(.image-gallery-thumbnail-image)',
@@ -422,7 +422,7 @@ module.exports = {
       },
     ],
     'docusaurus-plugin-matomo',
-    'docusaurus-plugin-hotjar',
+    /* 'docusaurus-plugin-hotjar', */
     [
       '@docusaurus/plugin-content-docs',
       {
