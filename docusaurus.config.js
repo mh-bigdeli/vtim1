@@ -244,7 +244,7 @@ module.exports = {
             },
           ],
         },
-        { to: '/blog', label: 'Community Blog', position: 'right' },
+        { to: '/blog', label: 'Immigration News', position: 'right' },
       
       ],
     },
