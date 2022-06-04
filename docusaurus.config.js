@@ -70,7 +70,7 @@ module.exports = {
       },
       {
         title: 'Our Services',
-        image: 'img/RCIC_EN_HORZ_CLR_POS_TM-CMYK.jpg',
+        image: 'img/RCIC_EN_HORZ_CLR_POS_TM_resized.png',
         link: 'participate/visa-services',
         description:
           'Service excellence',
