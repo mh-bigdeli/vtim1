@@ -101,7 +101,7 @@ module.exports = {
           to: 'participate/visa-services',
           activeBaseRegex: '^/participate/.*',
         },
-        {
+        /* {
           label: 'Build',
           to: '#',
           layout: [
@@ -243,7 +243,7 @@ module.exports = {
               ],
             },
           ],
-        },
+        }, */
         { to: '/blog', label: 'Immigration News', position: 'right' },
       
       ],
