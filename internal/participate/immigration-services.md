@@ -1,36 +1,15 @@
 ---
 title: Immigration Services
-description: VTIMS Immigration Services
-image: /img/participate/banner/canada-immigration1.png
+description: Running a node is the best way to use IOTA. This topic provides a
+  checklist of steps for running a reliable node.
+image: /img/participate/banner/banner_node_operator.png
 ---
 
-# Immigration Services
+# Getting started as a node operator
 
-![Node Operator](/img/participate/banner/canada-immigration1.jpg)
+![Node Operator](/img/participate/banner/banner_node_operator.png)
 
-When it comes to immigrating to Canada, It might involve complicated and versatile circumstances. As a result,  people  navigating through the immigration path, might face several unknowns on the way. Acquiring proper help could substantially reduce the  financial and emotional burden and eliminate delays unprecedented delays due to missing documents and/or untimely correspondence with the IRCC. Reaching out for an expert hand could well offset this costly burden. Our immigration services include but not limited:
-
-
-- Economic Class:
-	- Skilled Workers
-	- Business Immigration
-	- Caregiver
-- Sponsorship Programs:
-	- Parents
-	- Other family members including brothers and sisters, children, etc.
-	- Adopted children
-	- Other circumstances
-
-
-
-![Node Operator](/img/participate/banner/canada-immigration2.jpg)
-
-- Humanitarian and Compassionate Considerations Class
-- Refugees and Protected People
-- Immigration and Refugee Appeal Process through IRB
-
-
-<!-- **Running a node is the best way to use IOTA. By doing so, you have direct access to the Tangle instead of having to connect to and trust someone else's node, and you help the IOTA network to become more distributed. This topic provides a checklist of steps for running a reliable node.**
+**Running a node is the best way to use IOTA. By doing so, you have direct access to the Tangle instead of having to connect to and trust someone else's node, and you help the IOTA network to become more distributed. This topic provides a checklist of steps for running a reliable node.**
 
 ## Setting up a reliable architecture
 
@@ -78,4 +57,3 @@ Proof of work takes time and uses your node's computational power. So, you may w
 If you run more than one node, it's best practice to make sure that API requests are distributed among all of them. To evenly distribute the API requests among all your nodes, you can run a reverse proxy server that will act as a load balancer.
 
 This way, you can have one domain name for your reverse proxy server that all nodes will send their API calls to. But, on the backend, the nodes with the biggest amount of unused computational power will process the request and return the response.
- -->

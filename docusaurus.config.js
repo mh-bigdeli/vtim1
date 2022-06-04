@@ -66,11 +66,11 @@ module.exports = {
         image: 'img/canada-649858_1280.png',
         link: 'learn/an-introduction-to-vti',
         description:
-          'Learn about VTIMS.',
+          'Learn about Vision Transform Immigration Consultancy.',
       },
       {
         title: 'Our Services',
-        image: 'img/participate.svg',
+        image: 'img/RCIC_EN_HORZ_CLR_POS_TM-CMYK.jpg',
         link: 'participate/visa-services',
         description:
           'Service excellence',
