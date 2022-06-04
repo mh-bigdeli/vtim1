@@ -312,7 +312,7 @@ module.exports = {
             }, */
           ],
         },
-        {
+ /*        {
           title: 'BUILD',
           items: [
             {
@@ -332,7 +332,7 @@ module.exports = {
               to: 'build/tutorials/twitch',
             },
           ],
-        },
+        }, */
         
       ],
       logo: {
