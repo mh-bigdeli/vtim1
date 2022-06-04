@@ -355,22 +355,22 @@ module.exports = {
         url: 'https://discord.iota.org/',
         backgroundColor: '#4B576F',
       }, */
-      {
+      /* {
         url: 'https://www.twitter.com/iota/',
         backgroundColor: '#6A768E',
-      },
+      }, */
       /* {
         url: 'https://www.reddit.com/r/iota/',
         backgroundColor: '#7D89A1',
       }, */
-      {
+     /*  {
         url: 'https://www.linkedin.com/company/iotafoundation/',
         backgroundColor: '#8995AD',
       },
       {
         url: 'https://www.instagram.com/iotafoundation/',
         backgroundColor: '#99A5BD',
-      },
+      }, */
     ],
     colorMode: {
       defaultMode: 'dark',
