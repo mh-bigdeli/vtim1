@@ -63,14 +63,14 @@ module.exports = {
     cards: [
       {
         title: 'VTIMS',
-        image: 'img/canada-649858_1280.png',
+        image: 'img/canada-1280.png',
         link: 'learn/an-introduction-to-vti',
         description:
           'Learn about Vision Transform Immigration Consultancy.',
       },
       {
         title: 'Our Services',
-        image: 'img/RCIC_EN_HORZ_CLR_POS_TM_resized.png',
+        image: 'img/RCIC_EN_HORZ_CLR_POS_TM_resized-Cloth.png',
         link: 'participate/visa-services',
         description:
           'Service excellence',
