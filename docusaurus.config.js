@@ -76,11 +76,11 @@ module.exports = {
           'Service excellence',
       },
       {
-        title: 'Build',
+        title: 'Team',
         image: 'img/Team2.png',
-        link: 'build/welcome',
+        link: 'learn/vtims-team',
         description:
-          'Access documentation and guides to build with IOTA in Rust and other languages.',
+          'A great team makes the whole difference!',
       },
     ],
     navbar: {
