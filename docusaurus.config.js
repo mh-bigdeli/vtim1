@@ -77,7 +77,7 @@ module.exports = {
       },
       {
         title: 'Build',
-        image: 'img/build.svg',
+        image: 'img/Team2.png',
         link: 'build/welcome',
         description:
           'Access documentation and guides to build with IOTA in Rust and other languages.',
