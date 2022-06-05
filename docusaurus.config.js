@@ -432,7 +432,7 @@ module.exports = {
         sidebarPath: require.resolve('./internal/learn/sidebars.ts'),
 
         // General config
-        editUrl: 'https://github.com/iota-community/iota-wiki/edit/main/',
+        // editUrl: 'https://github.com/iota-community/iota-wiki/edit/main/',
         remarkPlugins: [
           require('remark-code-import'),
           require('remark-import-partial'),
@@ -441,7 +441,7 @@ module.exports = {
         breadcrumbs: false,
       },
     ],
-    [
+/*     [
       '@docusaurus/plugin-content-docs',
       {
         id: 'participate',
@@ -477,6 +477,6 @@ module.exports = {
         breadcrumbs: false,
       },
     ],
-    /* AUTO GENERATED EXTERNAL DOCS CONFIG */
+ */    /* AUTO GENERATED EXTERNAL DOCS CONFIG */
   ],
 };
