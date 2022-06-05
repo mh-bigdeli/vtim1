@@ -6,6 +6,6 @@ description: An introduction to our activites and immigration services at Vision
 
 ## VTIMS Team
 
-![layer1-tangle](/img/learn/team-mehdi1.jpg)
+![layer1-tangle](/img/learn/team-mehdi2.jpg)
 
 ### Mahdi Bigdeli
