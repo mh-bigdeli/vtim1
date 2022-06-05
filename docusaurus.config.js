@@ -468,7 +468,7 @@ module.exports = {
         sidebarPath: require.resolve('./internal/build/sidebars.ts'),
 
         // General config
-        editUrl: 'https://github.com/iota-community/iota-wiki/edit/main/',
+        // editUrl: 'https://github.com/iota-community/iota-wiki/edit/main/',
         remarkPlugins: [
           require('remark-code-import'),
           require('remark-import-partial'),
