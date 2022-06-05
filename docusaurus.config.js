@@ -23,14 +23,14 @@ module.exports = {
   ],
   themeConfig: {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    announcementBar: {
+/*     announcementBar: {
       id: 'assembly',
       content:
         'Would you like to stake your tokens? <a target="_blank" href="https://assembly.sc">Read more</a> about Assembly, the upcoming permissionless Smart Contract network.',
       backgroundColor: '#da7ad7',
       textColor: '#000000',
       isCloseable: true,
-    },
+    }, */    
     image: 'img/iota-wiki.png',
     algolia: {
       appId: 'YTLE56KAO4',
