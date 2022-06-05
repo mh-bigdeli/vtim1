@@ -4,7 +4,7 @@
 module.exports = {
   title: 'VISION TRANSFORM IMMIGRATION',
   tagline: 'Transform The Way You Immigrate To Canada',
-  url: 'https://heroic-trifle-9fb6d0.netlify.app',
+  url: 'https://www.vision-transform.com/',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
@@ -338,7 +338,7 @@ module.exports = {
       logo: {
         alt: 'VTIMS Logo',
         src: 'img/logo-vtims.png',
-        href: 'https://heroic-trifle-9fb6d0.netlify.app/',
+        href: 'https://www.vision-transform.com/',
       },
       copyright: `© ${new Date().getFullYear()} VTIMS.`,
     },
