@@ -1,5 +1,5 @@
 ---
-title: Temporary Resident Visa
+title: خدمات ویزای کوتاه‌مدت
 description: VTIMS VISA Services
 image: /img/participate/banner/travel-visa-banner.png
 ---
