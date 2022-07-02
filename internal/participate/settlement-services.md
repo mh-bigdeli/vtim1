@@ -15,11 +15,11 @@ Arriving in Canada is one thing and integrating successfully in its multifaceted
 	- We help you find a suitable temporary stay with a reasonable price point and good location, where you have proper access to your supports
 - Long term residence
 	- Whether you want to stay in a rental residence or purchase a new home in Canada, we connect you to our strategic partners, who are very much competent and expert in their field
-- Education and career coaching:
-	- With the expertise in the Canadian education system and business environment, we will hold your hand throughout your pursuit of success and prosperity. 
 
   ![Node Software](/img/bridge1.jpg)
 
+- Education and career coaching:
+	- With the expertise in the Canadian education system and business environment, we will hold your hand throughout your pursuit of success and prosperity. 
 	- Relying on our expert advice and coaching, will most likely save you a huge deal of time and money as we help you find what's suitable for you and your needs
 - Canadian integration workshops:
 	- At VTIMS, we provide you with the state of the art workshops or one-on-one coaching sessions to facilitate and accelerate your integration in the Canadian society and better understand it social, political, and economic aspects
