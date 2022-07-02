@@ -4,12 +4,12 @@ title: درباره ما
 description: An introduction to our activites and immigration services at Vision Transform Immigration.
 ---
 
-### An Introduction to Vision Transform Immigration Services
+### آشنایی با شرکت خدمات مهاجرتی چشم انداز تغییر 
 
-Vision Transform Immigration Services (VTIMS) is a an authorized immigration consultancy by the College of Immigration and Citizenship Consultants (CICC) under the management of Mahdi Bigdeli, RCIC (Authorization number: R709873). VTIMS provides expert consultancy services leveraging expertise driven from education and experience. Our specialists combine decades of experience in areas such as Canadian immigration system, North American education system, and Canadian business and financial environment.
+شرکت خدمات مهاجرتی چشم انداز تغییر، تحت مدیریت مهندس مهدی بیگدلی، وکیل رسمی مهاجرت کانادا و عضو کالج مشاوران
+ رسمی مهاجرت کانادا  مفتخر است خدمات مهاجرتی، ویزا، و تحصیلی را در بالاترین سطح به هموطنان علاقمند به زندگی، کار، و تحصیل در کشور کانادا، در هر جای دنیا ارائه نماید. متخصصان ما در شرکت مهاجرتی چشم انداز تغییر با بهره گیری از ترکیب سالها تجربه کاری و دانش اندوزی در فضای کسب و کار جامعه کانادا، نیازهای مهاجرتی شما را به مؤثرترین روش و در کمترین زمان ممکن برآورده کرده، و پیوسته سعی در حفاظت از منافع مشتریان گرامی دارند.
+ 
+تلاش ما بر آن است تا راه حل پیشنهادی ما، برای هر مشتری منحصر به فرد بوده و نیازهای خاص هر مشتری را  یا توجه به شرایط تحصیلی، مالی، سِنی، و خانوادگی آنها مد نظر داشته باشد.  مزیت رقابتی ما اینست که تمامی مدیران و کارشناسان ارشد شرکت چشم انداز تغییر سالیان متمادی در آمریکای شمالی به کار، تحصیل، و زندگی حرفه ای در سطح عالی مشغول بوده و شناخت عمیقی از شرایط اجتماعی، مالی، تحصیلی، و فضای کسب و کار در آن دارند. تحت این شرایط، راه حل پیشنهادی کارشناسان ما در بالاترین سطح ممکن و در در راستای برآورده کردن نیازهای مشتریان خواهد بود
 
-- We can meet your immigration and visa needs in an effective way, because we have lived the life here in a professionally and we know the nuts and bolts of the Canadian social and economic ecosystems.
-
-- Here at VTIMS, we strive to offer tailored solutions to meet your needs, so that you can dedicate your resources in an optimal manner, as we try to formulate the best possible pathway for you.
 
 ![layer1-tangle](/img/learn/RCIC_EN_HORZ_CLR_POS_TM.png)
