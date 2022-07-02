@@ -2,6 +2,20 @@
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['fa', 'en'],
+    localeConfigs: {
+      fa: {
+        label: 'فارسی',
+        direction: 'rtl',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+    },
+  },
   title: 'VISION TRANSFORM IMMIGRATION',
   tagline: 'Transform The Way You Immigrate To Canada',
   url: 'https://www.vision-transform.com/',
@@ -23,14 +37,14 @@ module.exports = {
   ],
   themeConfig: {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-/*     announcementBar: {
+    /*     announcementBar: {
       id: 'assembly',
       content:
         'Would you like to stake your tokens? <a target="_blank" href="https://assembly.sc">Read more</a> about Assembly, the upcoming permissionless Smart Contract network.',
       backgroundColor: '#da7ad7',
       textColor: '#000000',
       isCloseable: true,
-    }, */    
+    }, */
     image: 'img/iota-wiki.png',
     algolia: {
       appId: 'YTLE56KAO4',
@@ -42,7 +56,7 @@ module.exports = {
       matomoUrl: 'https://matomo.antonionardella.it/',
       siteId: '6',
     },
-   /*  hotjar: {
+    /*  hotjar: {
       applicationId: '2809821',
     }, */
     imageZoom: {
@@ -65,22 +79,19 @@ module.exports = {
         title: 'VTIMS',
         image: 'img/canada-1280.png',
         link: 'learn/an-introduction-to-vti',
-        description:
-          'Learn about Vision Transform Immigration Consultancy.',
+        description: 'Learn about Vision Transform Immigration Consultancy.',
       },
       {
         title: 'Our Services',
         image: 'img/RCIC_EN_HORZ_CLR_POS_TM_resized-Cloth.png',
         link: 'participate/visa-services',
-        description:
-          'Service excellence',
+        description: 'Service excellence',
       },
       {
         title: 'Team',
         image: 'img/Team2.png',
         link: 'learn/vtims-team',
-        description:
-          'A great team makes the whole difference!',
+        description: 'A great team makes the whole difference!',
       },
     ],
     navbar: {
@@ -245,7 +256,10 @@ module.exports = {
           ],
         }, */
         { to: '/blog', label: 'Immigration News', position: 'right' },
-      
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -312,7 +326,7 @@ module.exports = {
             }, */
           ],
         },
- /*        {
+        /*        {
           title: 'BUILD',
           items: [
             {
@@ -333,7 +347,6 @@ module.exports = {
             },
           ],
         }, */
-        
       ],
       logo: {
         alt: 'VTIMS Logo',
@@ -363,7 +376,7 @@ module.exports = {
         url: 'https://www.reddit.com/r/iota/',
         backgroundColor: '#7D89A1',
       }, */
-     /*  {
+      /*  {
         url: 'https://www.linkedin.com/company/iotafoundation/',
         backgroundColor: '#8995AD',
       },
@@ -441,7 +454,7 @@ module.exports = {
         breadcrumbs: false,
       },
     ],
-     [
+    [
       '@docusaurus/plugin-content-docs',
       {
         id: 'participate',
@@ -458,8 +471,8 @@ module.exports = {
         showLastUpdateTime: true,
         breadcrumbs: false,
       },
-    ],
-/*    [
+    ] /* AUTO GENERATED EXTERNAL DOCS CONFIG */,
+    /*    [
       '@docusaurus/plugin-content-docs',
       {
         id: 'build',
@@ -477,6 +490,6 @@ module.exports = {
         breadcrumbs: false,
       },
     ],
- */    /* AUTO GENERATED EXTERNAL DOCS CONFIG */
+ */
   ],
 };

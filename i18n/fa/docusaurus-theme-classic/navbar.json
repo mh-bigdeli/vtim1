@@ -1,0 +1,14 @@
+{
+  "item.label.About Us": {
+    "message": "درباره ما",
+    "description": "Navbar item with label About Us"
+  },
+  "item.label.Our Services": {
+    "message": "خدمات مهاجرت",
+    "description": "Navbar item with label Our Services"
+  },
+  "item.label.Immigration News": {
+    "message": "اخبار",
+    "description": "Navbar item with label Immigration News"
+  }
+}
