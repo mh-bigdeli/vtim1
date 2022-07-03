@@ -8,6 +8,6 @@ description: An introduction to our activites and immigration services at Vision
 
 ![layer1-tangle](/img/learn/team-mehdi3.jpg)
 
-### Mahdi Bigdeli, RCIC, MBA
+### مهدی بیگدلی (RCIC, MBA)
 
-With years of extensive experience in business consulting, career coaching and educational advisory roles, Mahdi brings an indispensable customer-centric value proposition to our clients. Mastery in ever-evolving immigration rules and regulations, is the cornerstone of Mahdi's mission as an advisor for your one stop shop go-to place for immigration, temporary residence, and educational needs.
+مهندس مهدی بیگدلی با سالها تجربه گسترده در مشاوره کسب و کار، مشاوره شغلی و آموزشی، رویکردی مشتری محور برای موکلین خود به ارمغان می آورد. تسلط بر قوانین و مقررات مهاجرتی متغیر، سنگ بنای هدف مهدی به عنوان مشاور برای نیاز های منحصر به فرد شما برای مهاجرت، اقامت موقت و تحصیل است. تحصیلات عالی در اقتصاد، مهندس و کسب و کار، دیدی وسیع در اختیار مهندس بیگدلی در مورد جامعه اقتصادی و اجتماعی کانادا قرار میدهد که ارزش کار ایشان را در ارائه مشاوره به موکلین محترم صدچندان میکند. 
