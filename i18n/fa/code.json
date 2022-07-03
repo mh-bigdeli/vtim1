@@ -1,8 +1,8 @@
 {
-  "title": {
+  "hero.title": {
     "message": "چشم انداز"
   },
-  "tagline": {
+  "hero.tagline": {
     "message": "A technical open source team",
     "description": "The tagline"
   },
