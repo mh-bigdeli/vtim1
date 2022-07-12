@@ -9,7 +9,7 @@ description: راه‌های تماس با ما
 
 ایمیل: [info@vision-transform.com](mailto:info@vision-transform.com)
 
-تلفن/واتزاپ: +1-416-417-8896
+تلفن/واتس‌اپ: +1-416-417-8896
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWd2Ra770dq3NC0ABLzwvUowKeqQ47HMzc0tZGL-lDySER8Q/viewform?embedded=true" width="640" height="3651" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
