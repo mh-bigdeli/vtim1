@@ -112,6 +112,11 @@ module.exports = {
           to: 'participate/visa-services',
           activeBaseRegex: '^/participate/.*',
         },
+        {
+          label: 'Contact Us',
+          to: 'contact/contactus',
+          activeBaseRegex: '^/contact/.*',
+        },
         /* {
           label: 'Build',
           to: '#',
