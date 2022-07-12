@@ -476,7 +476,25 @@ module.exports = {
         showLastUpdateTime: true,
         breadcrumbs: false,
       },
-    ] /* AUTO GENERATED EXTERNAL DOCS CONFIG */,
+    ], /* AUTO GENERATED EXTERNAL DOCS CONFIG */,
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'contact',
+        path: 'internal/contact',
+        routeBasePath: 'contact',
+        sidebarPath: require.resolve('./internal/contact/sidebars.ts'),
+
+        // General config
+        // editUrl: 'https://github.com/iota-community/iota-wiki/edit/main/',
+        remarkPlugins: [
+          require('remark-code-import'),
+          require('remark-import-partial'),
+        ],
+        showLastUpdateTime: true,
+        breadcrumbs: false,
+      },
+    ]
     /*    [
       '@docusaurus/plugin-content-docs',
       {
