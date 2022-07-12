@@ -476,7 +476,7 @@ module.exports = {
         showLastUpdateTime: true,
         breadcrumbs: false,
       },
-    ], /* AUTO GENERATED EXTERNAL DOCS CONFIG */,
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
