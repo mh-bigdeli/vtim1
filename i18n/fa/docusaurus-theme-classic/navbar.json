@@ -7,6 +7,10 @@
     "message": "خدمات مهاجرت",
     "description": "Navbar item with label Our Services"
   },
+  "item.label.Contact Us": {
+    "message": "تماس با ما",
+    "description": "Navbar item with label About Us"
+  },
   "item.label.Immigration News": {
     "message": "اخبار",
     "description": "Navbar item with label Immigration News"
