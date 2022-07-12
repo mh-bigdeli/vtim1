@@ -4,7 +4,7 @@ title: Contact Us
 description: Ways to contact us
 ---
 
-Let us betterj help you by providing the information in the followging form. 
+Let us better help you by providing the information in the followging form. 
 If you need more information, please contact us:
 
 Email address: [info@vision-transform.com](mailto:info@vision-trransform.com) 
