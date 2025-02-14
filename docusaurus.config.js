@@ -18,7 +18,7 @@ module.exports = {
   },
   title: 'VISION TRANSFORM IMMIGRATION',
   tagline: 'Transform The Way You Immigrate To Canada',
-  url: 'https://www.vision-transform.com/',
+  url: 'https://mh-bigdeli.github.io/',
   baseUrl: '/vtim1/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
