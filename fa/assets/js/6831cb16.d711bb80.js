@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[679],{25432:function(a){a.exports=JSON.parse('{"allTagsPath":"/vtim1/fa/blog/tags","name":"Intermobility Program","count":1,"permalink":"/vtim1/fa/blog/tags/intermobility-program"}')}}]);

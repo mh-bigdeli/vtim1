@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[1957],{88780:function(i){i.exports=JSON.parse('{"allTagsPath":"/vtim1/blog/tags","name":"Immigration","count":3,"permalink":"/vtim1/blog/tags/immigration"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[5767],{40645:function(a){a.exports=JSON.parse('{"allTagsPath":"/vtim1/fa/blog/tags","name":"IMP","count":1,"permalink":"/vtim1/fa/blog/tags/imp"}')}}]);
