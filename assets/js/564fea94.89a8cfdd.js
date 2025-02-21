@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[7185],{3965:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Canada PNP","count":1,"permalink":"/blog/tags/canada-pnp"}')}}]);
