@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>VISION TRANSFORM IMMIGRATION Blog</title>
+        <link>https://www.vision-transform.com/fa/blog</link>
+        <description>VISION TRANSFORM IMMIGRATION Blog</description>
+        <lastBuildDate>Mon, 23 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fa</language>
+        <item>
+            <title><![CDATA[What is International Mobility Program?]]></title>
+            <link>https://www.vision-transform.com/fa/blog/intermobity-program</link>
+            <guid>intermobity-program</guid>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Canada's International Mobility Program is a great opportunity for foreign workers who want to move to Canada [1]. The program allows employers to hire workers on a Canada work permit without a Labour Market Impact Assessment (LMIA). This makes the process easier and more accessible for those looking to immigrate to Canada.]]></description>
+            <category>Intermobility Program</category>
+            <category>International Mobility Program</category>
+            <category>IMP</category>
+            <category>Canada Immigration</category>
+            <category>Immigration</category>
+        </item>
+        <item>
+            <title><![CDATA[BREAKING: Express Entry: کانادا برای اولین بار از سال ۲۰۲۰ مهاجران ماهر را از خارج از کانادا دعوت می کند]]></title>
+            <link>https://www.vision-transform.com/fa/blog/canada-express-entry</link>
+            <guid>canada-express-entry</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Canada's Immigration Minister: “Today, I am pleased to announce that Express Entry draws have officially resumed and applications will be processed at our 6 month processing standard. I look forward to welcoming skilled workers who will are essential in addressing Canada’s labour shortages.”]]></description>
+            <category>Canada Express Entry</category>
+            <category>Immigration</category>
+        </item>
+        <item>
+            <title><![CDATA[Canada’s PNP immigration pathways through Express Entry]]></title>
+            <link>https://www.vision-transform.com/fa/blog/pnp-immigration</link>
+            <guid>pnp-immigration</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Finality—Part 4: Many Worlds]]></description>
+            <category>Canada PNP</category>
+            <category>Immigration</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[8371],{36028:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Canada Express Entry","count":1,"permalink":"/blog/tags/canada-express-entry"}')}}]);

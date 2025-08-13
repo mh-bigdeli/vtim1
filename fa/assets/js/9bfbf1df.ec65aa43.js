@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[7537],{84224:function(a){a.exports=JSON.parse('{"allTagsPath":"/fa/blog/tags","name":"International Mobility Program","count":1,"permalink":"/fa/blog/tags/international-mobility-program"}')}}]);
